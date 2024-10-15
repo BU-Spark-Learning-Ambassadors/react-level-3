@@ -11,10 +11,17 @@ In order for the project to be considered "completed", it must complete the foll
 3. **Git Best Practices:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository. Also does not push `node_modules` as it is very large.
 
 4. **CHOOSE ONE**
-* **Store Users in Database:** Have a form that allows users to enter their emails to join your mailing list. Display this mailing list in a table.
-* **Enable Download Data Functionality:** add ability to download the data table (all results of the API)
+
+- **Store Users in Database:** Have a form that allows users to enter their emails to join your mailing list. Display this mailing list in a table.
+- **Enable Download Data Functionality:** add ability to download the data table (all results of the API)
 
 **See `MORE_INSTRUCTIONS.md` for a tips to get started**
+
+## Example
+
+See Adam Godel's Project [Our Republic](https://our-republic.vercel.app/) that uses the Library of Congress API to achieve the goals of this project! See his source code [here](https://github.com/adam-godel/our-republic).
+
+<img src="./OurRepublic.png" alt="example" width="800px" style="margin: 0 auto;"/>
 
 ## Submission
 
